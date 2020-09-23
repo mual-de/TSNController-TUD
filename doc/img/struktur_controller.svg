@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2126 1063" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Grundebene">
+        <g transform="matrix(1,0,0,1,47.2441,47.2441)">
+            <path d="M1181.1,318.898C1181.1,299.342 1165.23,283.465 1145.67,283.465L885.827,283.465C866.271,283.465 850.394,299.342 850.394,318.898L850.394,389.764C850.394,409.32 866.271,425.197 885.827,425.197L1145.67,425.197C1165.23,425.197 1181.1,409.32 1181.1,389.764L1181.1,318.898Z" style="fill:white;stroke:black;stroke-width:2.08px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-543.307,472.441)">
+            <path d="M1181.1,318.898C1181.1,299.342 1165.23,283.465 1145.67,283.465L885.827,283.465C866.271,283.465 850.394,299.342 850.394,318.898L850.394,389.764C850.394,409.32 866.271,425.197 885.827,425.197L1145.67,425.197C1165.23,425.197 1181.1,409.32 1181.1,389.764L1181.1,318.898Z" style="fill:white;stroke:black;stroke-width:2.08px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,74.4385,10.5811)">
+            <text x="276.084px" y="808.28px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">NETCONF</text>
+            <text x="332.993px" y="859.916px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">Client</text>
+        </g>
+        <g transform="matrix(1,0,0,1,637.795,472.441)">
+            <path d="M1181.1,318.898C1181.1,299.342 1165.23,283.465 1145.67,283.465L885.827,283.465C866.271,283.465 850.394,299.342 850.394,318.898L850.394,389.764C850.394,409.32 866.271,425.197 885.827,425.197L1145.67,425.197C1165.23,425.197 1181.1,409.32 1181.1,389.764L1181.1,318.898Z" style="fill:white;stroke:black;stroke-width:2.08px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,5.36742,47.1585)">
+            <text x="898.323px" y="378.038px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">TSNController</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-76.4821,7.77818)">
+            <text x="1675.64px" y="811.083px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">OVS</text>
+            <text x="1620.06px" y="862.719px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">Controller</text>
+        </g>
+        <g transform="matrix(1,0,0,1,70.8661,47.2441)">
+            <g transform="matrix(1,-0,-0,1,-70.8661,-47.2441)">
+                <path d="M961.922,494.935L968.504,472.441L945.066,472.421L961.922,494.935Z"/>
+                <path d="M613.315,755.926L589.878,755.906L596.459,733.411L613.315,755.926Z"/>
+                <path d="M956.496,481.431C899.728,523.931 658.654,704.415 601.885,746.916" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+            </g>
+        </g>
+        <g transform="matrix(-1,0,0,1,2054.44,47.2441)">
+            <g transform="matrix(-1,0,0,1,2054.44,-47.2441)">
+                <path d="M1180.24,472.421L1156.81,472.441L1163.39,494.935L1180.24,472.421Z"/>
+                <path d="M1528.85,733.411L1535.43,755.906L1512,755.926L1528.85,733.411Z"/>
+                <path d="M1168.81,481.431C1225.58,523.931 1466.66,704.415 1523.42,746.916" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+            </g>
+        </g>
+        <g transform="matrix(-2e-06,0,0,0.666667,1062.99,-141.732)">
+            <g transform="matrix(-6.66087e+14,0,0,1.5,7.08045e+17,212.598)">
+                <path d="M1077.06,160.482L1062.99,141.732L1048.93,160.482L1077.06,160.482Z"/>
+                <path d="M1077.06,311.959L1062.99,330.709L1048.93,311.959L1077.06,311.959Z"/>
+                <path d="M1062.99,156.732L1062.99,315.709" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-70.5838,-8.93911)">
+            <text x="951.227px" y="139.829px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">TSNEngineering</text>
+        </g>
+    </g>
+    <g id="BeschriftungProtokolle">
+        <text x="1377.27px" y="607.91px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">REST<tspan x="1487.64px 1496.91px 1524.71px " y="607.91px 607.91px 607.91px "> AP</tspan>I</text>
+        <g transform="matrix(1,0,0,1,-294.582,-371.689)">
+            <text x="1377.27px" y="607.91px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">REST<tspan x="1487.64px 1496.91px 1524.71px " y="607.91px 607.91px 607.91px "> AP</tspan>I</text>
+        </g>
+        <g transform="matrix(1,0,0,1,79.6435,-4.94785)">
+            <text x="527.992px" y="619.121px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">XML</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-22.1392,0.626778)">
+            <text x="338.798px" y="944.255px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">ncclient (Python)</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1185.73,0.626778)">
+            <text x="338.798px" y="944.255px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:41.667px;">R<tspan x="368.136px 395.927px " y="944.255px 944.255px ">YU</tspan> (Python)</text>
+        </g>
+        <g transform="matrix(1.21739,0,0,1.23422,-269.086,-126.821)">
+            <ellipse cx="803.15" cy="590.805" rx="543.307" ry="354.076" style="fill:none;stroke:rgb(255,138,0);stroke-width:3.4px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-143.873,155.272)">
+            <text x="259.084px" y="328.514px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:58.333px;fill:rgb(255,141,0);">gemeinsame <tspan x="606.037px 644.945px " y="328.514px 328.514px ">An</tspan>wendung</text>
+        </g>
+        <g transform="matrix(1,0,0,1,1331.7,380.147)">
+            <text x="259.084px" y="328.514px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:58.333px;fill:rgb(255,141,0);">eigene <tspan x="447.244px 486.151px " y="328.514px 328.514px ">An</tspan>wendung</text>
+        </g>
+    </g>
+</svg>
